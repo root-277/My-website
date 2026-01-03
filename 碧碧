@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>雪碧员工简历</title>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div
+      style="
+        background-color: rgb(215, 250, 224);
+        text-align: center;
+        padding: 40px;
+      "
+    >
+      <img
+        src="https://i.imgs.ovh/2026/01/03/Ci3Vbq.jpeg"
+        alt="碧碧"
+        width="150px"
+        height="150px"
+      />
+    </div>
+    <div
+      style="
+        max-width: 700px;
+        margin: 30px auto;
+        padding: 5px;
+        line-height: 1.5;
+      "
+    >
+      <p style="text-align: center">姓名：碧碧</p>
+      <p style="text-align: center">工龄：15天</p>
+      <p style="text-align: center">岗位：公关策划</p>
+      <p style="text-align: center">擅长：狗语，普通话，英语，手语</p>
+      <p style="text-align: center">业绩：在两脚兽面前打造了靠谱的品牌形象</p>
+    </div>
+    <div
+      style="
+        background-color: rgb(215, 250, 224);
+        text-align: center;
+        padding: 50px;
+        font-size: 15px;
+      "
+    >
+      <p><a href="伯老板.html">伯老板</a></p>
+      <p><a href="猪仔">猪人事</a></p>
+      <p><a href="布丁">布销售</a></p>
+    </div>
+  </body>
+</html>
